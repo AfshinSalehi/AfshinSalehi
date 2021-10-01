@@ -2,7 +2,7 @@
 - 👀 I’m very much interested in Geography, GIS, RS, and Math
 - ♥ I'm good at Python(GDAL, Scipy, Numpy, Leaflet, PyQGIS, PostGIS, Spatialite, ...) and have some experience in C++
 - 🌱 I’m currently learning JS, Kotlin
-- 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithm for different purposes
+- 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithms for different purposes
 - 📫 How to reach me: Email me: Salehi@consultant.com ----- website: Afshin-salehi.site123.com
 - ☺ And if you are interested in arts too: Please check my music and artworks at: instagram.com\afshinsalehi.1
 
