@@ -18,7 +18,7 @@
 
 ----
   
-- 👀 I’m very much interested in Geography, GIS, RS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I’m very much interested in Geography, GIS, RS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - ♥ I'm good at Python(GDAL, Scipy, Numpy, Leaflet, PyQGIS, PostGIS, Spatialite, ...) and have some experience in C++
 - 🌱 I’m currently learning JS, Kotlin
 - 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithms for different purposes
