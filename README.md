@@ -23,9 +23,17 @@
 - 🌱 I’m currently learning JS, Kotlin
 - 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithms for different purposes
 - 📫 How to reach me: Email me: Salehi@consultant.com ----- website: Afshin-salehi.site123.com
+- ---
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+
+[![](https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/18JjzQTDZayfrsnLhoKvQwRYCXiDbK8QW4)  <<-<<-<<=<<  BTC address
+
+- ---
+- 🤫 Let's share a nasty secret:  &nbsp; I love    <img src="https://www.svgrepo.com/show/210233/money-cash.svg" height ="45px" width="84px" style="vertical-align:bottom">  too    🤑 🤑 🤑
+
 
 ----
-- 🎸 And if you are interested in arts too: Please check **my music** and **artworks** at: instagram.com\afshinsalehi.1
+- 🎸 And if you are interested in arts too: Please check **my music** and **artworks** on: &nbsp; [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afshinsalehi.1)
 
 <!---
 AfshinSalehi/AfshinSalehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
