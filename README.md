@@ -29,7 +29,7 @@
 
 
 - ---
-- 🤫 Let's share a nasty secret:  &nbsp; I love    <img src="https://www.svgrepo.com/show/210233/money-cash.svg" height ="45px" width="84px" style="vertical-align:bottom">  too    🤑 🤑 🤑
+- 🤫 Let's share a nasty secret:  &nbsp; I love    <img src="https://www.svgrepo.com/show/210233/money-cash.svg" height ="45px" width="84px" style="vertical-align:bottom">    🤑 🤑 🤑
 
 [![](https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/18JjzQTDZayfrsnLhoKvQwRYCXiDbK8QW4)  <<-<<-<<=<<  BTC address
 
