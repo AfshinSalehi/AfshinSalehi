@@ -27,7 +27,7 @@
 - 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithms for different purposes
  
 - 📫 How to reach me: Email me:  [![](https://img.shields.io/badge/salehi@consultant.com-1582a3?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:salehi@consultant.com)](mailto:salehi@consultant.com)
-[![](https://img.shields.io/badge/afshin‑salehi.site123.me-3552a3?&style=for-the-badge&logo=gmail&logoColor=white)](http://afshin-salehi.site123.me)
+[![](https://img.shields.io/badge/afshin‑salehi.site123.me-3552a3?&style=for-the-badge&logo=w&logoColor=white)](http://afshin-salehi.site123.me)
 - ---
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
