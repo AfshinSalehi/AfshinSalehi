@@ -22,7 +22,7 @@
  
 - ♥ I'm good at Python(GDAL, Scipy, Numpy, Leaflet, PyQGIS, PostGIS, Spatialite, ...) and have some experience in C++
 
-- 🌱 I’m currently learning JS, Kotlin
+- 🌱 I’m currently learning ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 - 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithms for different purposes
  
