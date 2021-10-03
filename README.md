@@ -19,9 +19,13 @@
 ----
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I’m very much interested in Geography, GIS, RS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ 
 - ♥ I'm good at Python(GDAL, Scipy, Numpy, Leaflet, PyQGIS, PostGIS, Spatialite, ...) and have some experience in C++
+
 - 🌱 I’m currently learning JS, Kotlin
+
 - 💞️ I’m looking to collaborate on GIS applications and calculative GIS-based algorithms for different purposes
+ 
 - 📫 How to reach me: Email me:  [![](https://img.shields.io/badge/salehi@consultant.com-1582a3?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:salehi@consultant.com)](mailto:salehi@consultant.com)
 [![](https://img.shields.io/badge/afshin‑salehi.site123.me-3552a3?&style=for-the-badge&logo=gmail&logoColor=white)](http://afshin-salehi.site123.me)
 - ---
@@ -29,7 +33,7 @@
 
 
 - ---
-- 🤫 Let's share a nasty secret:  &nbsp; I love    <img src="https://www.svgrepo.com/show/210233/money-cash.svg" height ="45px" width="84px" style="vertical-align:bottom">    🤑 🤑 🤑
+- 🤫 **Let's share a nasty secret:**  &nbsp; I love    <img src="https://www.svgrepo.com/show/210233/money-cash.svg" height ="45px" width="84px" style="vertical-align:bottom">    🤑 🤑 🤑
 
 [![](https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/18JjzQTDZayfrsnLhoKvQwRYCXiDbK8QW4)  <<-<<-<<=<<  BTC address
 
